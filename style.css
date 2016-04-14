@@ -1,0 +1,19 @@
+.everything {
+  width: 500px;
+  margin: 150px auto;
+  border: 1px solid black;
+  padding: 0 10px;
+}
+
+.love {
+  width: 100%;
+}
+.line {
+  text-align: center;
+  font-size: 150%;
+}
+
+.letter {
+  text-align: center;
+  font-size: 150%;
+}
